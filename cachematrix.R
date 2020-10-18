@@ -40,6 +40,7 @@ cacheSolve = function(x, ...) {
   inv
 }
 
+##TESTRUN ##TESTRUN ##TESTRUN ##TESTRUN ##TESTRUN ##TESTRUN ##TESTRUN ##TESTRUN
 ##> matrix_pill <- makeCacheMatrix(matrix(1:8,2,2))
 ##> matrix_pill$get()
 ##     [,1] [,2]
